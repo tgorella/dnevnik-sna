@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dnevnik-sna/static/css/main.22729b1f.css",
+    "main.js": "/dnevnik-sna/static/js/main.6f7df920.js",
+    "index.html": "/dnevnik-sna/index.html",
+    "main.22729b1f.css.map": "/dnevnik-sna/static/css/main.22729b1f.css.map",
+    "main.6f7df920.js.map": "/dnevnik-sna/static/js/main.6f7df920.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22729b1f.css",
+    "static/js/main.6f7df920.js"
+  ]
+}
