@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dnevnik-sna/static/css/main.e0da0f7f.css",
-    "main.js": "/dnevnik-sna/static/js/main.2e22e445.js",
+    "main.js": "/dnevnik-sna/static/js/main.38e4dfd6.js",
     "static/media/fox2.webp": "/dnevnik-sna/static/media/fox2.1577e9d84558af5b4cf7.webp",
     "static/media/moon.webp": "/dnevnik-sna/static/media/moon.270db6860fcdb936bea5.webp",
     "index.html": "/dnevnik-sna/index.html",
     "main.e0da0f7f.css.map": "/dnevnik-sna/static/css/main.e0da0f7f.css.map",
-    "main.2e22e445.js.map": "/dnevnik-sna/static/js/main.2e22e445.js.map"
+    "main.38e4dfd6.js.map": "/dnevnik-sna/static/js/main.38e4dfd6.js.map"
   },
   "entrypoints": [
     "static/css/main.e0da0f7f.css",
-    "static/js/main.2e22e445.js"
+    "static/js/main.38e4dfd6.js"
   ]
 }
